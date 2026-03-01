@@ -6,7 +6,7 @@
 ![Mathematical Reasoning](https://img.shields.io/badge/Task-Mathematical_Reasoning-red) 
 ![Multi-Modal](https://img.shields.io/badge/Task-Multi--Modal-red) 
 
-Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Logo" width="20" style="vertical-align: middle; margin-right: 10px;" />[MATHGLANCE: Evaluating Visual Perception in Mathematical Visual Contexts](https://arxiv.org/pdf/2503.20745)".
+Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Logo" width="20" style="vertical-align: middle; margin-right: 10px;" />[Math Blind: Failures in Diagram Understanding Undermine Reasoning in MLLMs](https://arxiv.org/pdf/2503.20745)".
 
 🌟 For more details, please refer to the project page with benchmark overview: [https://mathglance.github.io/](https://mathglance.github.io/).
 
