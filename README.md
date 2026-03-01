@@ -1,6 +1,6 @@
 
 
-# <img src="assets/MathGlance_logo.png" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;" /> MATHGLANCE: Evaluating Visual Perception in Mathematical Visual Contexts 
+# <img src="assets/MathGlance_logo.png" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;" /> Math Blind: Failures in Diagram Understanding Undermine Reasoning in MLLMs
 
 ![MathQA](https://img.shields.io/badge/Task-MathQA-red) 
 ![Mathematical Reasoning](https://img.shields.io/badge/Task-Mathematical_Reasoning-red) 
